@@ -8,7 +8,8 @@ public class ReadMe {
     
     String currentlyLearning = "";
       if (interestedInProgramming) {
-        currentlyLearning = "Data Structures and Programming Abstractions";
+        currentlyLearning = "Fundamentals of Software Development";
+        currentlyLearning += " and Computer Networks";
       }
     
     String[] howToReach = new String[] {"jeffrey.xiao03@gmail.com", "jeffrey.xiao@stonybrook.edu"};
