@@ -2,6 +2,7 @@ def intro():
     name = "Jeffrey Xiao"
     current_focus = ["Cybersecurity", "Cloud Computing", "Web Development"]
     hobbies = ["Hiking", "Camping", "Skiing", "Programming", "Guitar"]
+    personal_website = "www.jeffreyxiao.info/"
     
     print(f"Hello, I'm {name}!")
     print(f"\nI {'love' if 'Programming' in hobbies else 'like'} programming and exploring technology.")
