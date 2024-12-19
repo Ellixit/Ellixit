@@ -2,7 +2,6 @@ def intro():
     name = "Jeffrey Xiao"
     current_focus = ["Cybersecurity", "Cloud Computing", "Web Development"]
     hobbies = ["Hiking", "Camping", "Skiing", "Programming", "Guitar"]
-    role = "Army ROTC Senior Cadet"
     
     print(f"Hello, I'm {name}!")
     print(f"\nI {'love' if 'Programming' in hobbies else 'like'} programming and exploring technology.")
