@@ -1,7 +1,7 @@
 def intro():
     name = "Jeffrey Xiao"
     current_focus = ["Security", "Cloud Computing", "Web Development"]
-    hobbies = ["Hiking", "Camping", "Skiing", "Programming", "Photography", "Guitar"]
+    hobbies = ["Hiking", "Camping", "Skiing", "Programming", "Photography", "Playing Guitar"]
     personal_website = "jeffreyxiao.info/"
     
     print(f"Hello, I'm {name}!")
