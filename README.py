@@ -1,11 +1,11 @@
 def intro():
     name = "Jeffrey Xiao"
-    current_focus = ["Cybersecurity", "Cloud Computing", "Web Development"]
+    current_focus = ["Security", "Cloud Computing", "Web Development"]
     hobbies = ["Hiking", "Camping", "Skiing", "Programming", "Photography", "Guitar"]
     personal_website = "jeffreyxiao.info/"
     
     print(f"Hello, I'm {name}!")
-    print(f"\nI {'love' if 'Programming' in hobbies else 'like'} programming and exploring technology.")
+    print(f"\nI love programming and exploring technology.")
     print("\nCurrently, I'm focusing on:")
     for focus in current_focus:
         print(f"  - {focus}")
